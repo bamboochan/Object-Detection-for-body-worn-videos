@@ -6,4 +6,4 @@ Focus on applications of Faster-RCNN to the problem of object detection in body-
 
 included end-of-term paper and poster.pdf, a presentation poster
 
-.. image:: https://github.com/bamboochan/Object-Detection-for-body-worn-videos/blob/master/poster.pdf
+.. image:: https://raw.githubusercontent.com/bamboochan/Object-Detection-for-body-worn-videos/master/poster.001.jpeg
